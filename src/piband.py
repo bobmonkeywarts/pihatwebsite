@@ -7,7 +7,7 @@ from thesaurus import thesaurus
 from speech import say
 from wolfram import lookup
 from chatbot import chatbot
-from sendemail import send
+from email import send
 from time import sleep
 from gpiozero import PWMLED, Button
 from threading import Thread
