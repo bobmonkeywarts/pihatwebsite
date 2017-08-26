@@ -1,0 +1,4 @@
+ dad=joshua.goodman@gmail.com
+ mom=ericagoodwoman@yahoo.com
+ adam=adamgecko1234@gmail.com
+ jared=jaredgoodman03@gmail.com
